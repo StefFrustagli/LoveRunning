@@ -51,7 +51,7 @@ h1 {
     list-style-type: none;
 }
 
-#menu > li {
+#menu>li {
     margin-bottom: 1em;
 }
 
@@ -129,6 +129,7 @@ main {
         /* Push main content down to accommodate larger header */
         margin-top: 79px;
     }
+
 }
 
 
